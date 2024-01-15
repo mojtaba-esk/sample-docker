@@ -5,4 +5,4 @@ FROM alpine:latest
 LABEL description="Fast lightweight Docker image"
 
 # Print a simple message during container startup
-CMD echo "Hello, this is a fast Docker image!"
+CMD echo "Hello, this is a fast Docker image! (second commit)"
